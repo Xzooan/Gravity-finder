@@ -1,0 +1,25 @@
+p="************************"
+name=input("Name of planet:")
+print(name)
+print(p)
+radius=float(input("Radius of planet(in km):"))
+print(radius)
+print(p)
+mass=float(input("Mass of planet(in kg):"))
+print(mass)
+print(p)
+rad=radius*10000
+#multiply by 10000 because put the float value in the program ,rise error in value when divide by 1000
+print(rad,"radius in m")
+print(p)
+print(p)
+r2=rad*rad
+G=669*10**-11
+gr=(G*mass)
+g1=gr/r2
+print("Gravity","=",g1,"ms**-2")
+print(p)
+g=g1/9.8
+print("Gravity (comparison with earth)","=",g)
+print(p)
+#Created by Aditya
