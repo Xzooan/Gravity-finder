@@ -1,4 +1,4 @@
-# Gravity-finder
+# Gravity-finder program
 Gravity finder and compare with earth
 ➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
 ⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️
