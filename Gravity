@@ -14,7 +14,7 @@ print(rad,"radius in m")
 print(p)
 print(p)
 r2=rad*rad
-G=669*10**-11
+G=669*10**-11 ()
 gr=(G*mass)
 g1=gr/r2
 print("Gravity","=",g1,"ms**-2")
